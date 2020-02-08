@@ -223,6 +223,14 @@ body{
     color:#FDE21A;
     text-decoration: none;
 }
+.pdf-bl{
+    color:#000000;
+    font-size: 11px;
+}
+.pdf-bl:hover{
+    color:#FFFFFF;
+    text-decoration: none;
+}
 
 /* FONT AWESOME*/
 

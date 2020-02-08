@@ -1,2 +1,2 @@
 Este es mi CV.
-Se va actualizando periodicamente
+Se va actualizando periodicamente.
