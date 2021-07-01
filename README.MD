@@ -1,2 +1,1 @@
-Este es mi CV.
-Se va actualizando periodicamente.
+https://paolaescudero.github.io/cv/
